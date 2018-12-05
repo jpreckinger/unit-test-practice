@@ -1,0 +1,16 @@
+{
+  "name": "unit-test-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sumTwo.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node sumTwo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
